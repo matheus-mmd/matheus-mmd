@@ -31,8 +31,9 @@ const matheus = {
 };
 ```
 
-> Dedicado a criar experiências digitais envolventes e interfaces de usuário intuitivas,
-> utilizando tecnologias como Python para criar soluções automatizadas.
+> Dedicado a criar experiências digitais envolventes — da interface ao banco de dados.
+> Construo interfaces intuitivas e responsivas com React e Next.js, APIs em Node.js com
+> NestJS e Express sobre PostgreSQL, e soluções automatizadas em Python.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:6366F1&height=3&section=header" width="100%" alt="" />
 
