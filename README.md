@@ -6,9 +6,8 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/matheus-mmd/)
-[![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0D1117)](mailto:matheus_meneses2011@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](https://wa.me/5511945153662)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Menezes-0A66C2?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMi45OCA5Ljc1aDR2MTEuNWgtNHpNOS41IDkuNzVoMy44M3YxLjU3aC4wNWMuNTMtMSAxLjg0LTIuMDYgMy43OC0yLjA2IDQuMDQgMCA0Ljc5IDIuNjYgNC43OSA2LjEydjUuODdoLTR2LTUuMmMwLTEuMjQtLjAyLTIuODQtMS43My0yLjg0LTEuNzMgMC0yIDEuMzUtMiAyLjc1djUuMjloLTR6Ii8+PC9zdmc+)](https://www.linkedin.com/in/matheus-mmd/)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-38BDF8?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRhMiAyIDAgMCAwLTIgMnYxMmEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJWNmEyIDIgMCAwIDAtMi0yem0wIDQuMi04IDQuOC04LTQuOFY2bDggNC44TDIwIDZ6Ii8+PC9zdmc+)](mailto:matheus_meneses2011@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-matheus--mmd-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/matheus-mmd)
 
 <img src="https://komarev.com/ghpvc/?username=matheus-mmd&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
@@ -23,8 +22,10 @@
 const matheus = {
   role:     "Desenvolvedor Front-End",
   focus:    ["Interfaces intuitivas", "Experiências digitais envolventes"],
-  alsoDoes: ["Soluções automatizadas com Python"],
-  core:     ["TypeScript", "React", "Next.js", "Node.js"],
+  core:     ["TypeScript", "React", "Next.js", "Tailwind CSS"],
+  backend:  ["Node.js", "NestJS", "Express", "Prisma", "PostgreSQL"],
+  mobile:   ["React Native", "Expo"],
+  automacao:["Python", "Selenium"],
   building: "Financeiro SaaS — controle financeiro pessoal",
   contact:  "matheus_meneses2011@hotmail.com",
 };
@@ -39,46 +40,86 @@ const matheus = {
 
 <table>
   <tr>
-    <td width="150"><b>Linguagens</b></td>
+    <td width="170"><b>Linguagens</b></td>
     <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0D1117" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117" alt="CSS3" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=0D1117&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0D1117&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&labelColor=0D1117&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&labelColor=0D1117&logo=css&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
     <td><b>Front-End</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0D1117" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Responsive%20Design-2496ED?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117" alt="Responsive Design" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=0D1117&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=0D1117&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&labelColor=0D1117&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&labelColor=0D1117&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&labelColor=0D1117&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&labelColor=0D1117&logo=radixui&logoColor=white" alt="Radix UI" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&labelColor=0D1117&logo=vite&logoColor=white" alt="Vite" />
     </td>
   </tr>
   <tr>
     <td><b>Back-End</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0D1117" alt="Node.js" />
-      <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0D1117" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&labelColor=0D1117&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&labelColor=0D1117&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&labelColor=0D1117&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&labelColor=0D1117&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&labelColor=0D1117&logo=zod&logoColor=white" alt="Zod" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&labelColor=0D1117&logo=swagger&logoColor=black" alt="Swagger" />
     </td>
   </tr>
   <tr>
-    <td><b>Dados</b></td>
+    <td><b>Banco de dados</b></td>
     <td>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0D1117" alt="SQL Server" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0D1117" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0D1117" alt="Power BI" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&labelColor=0D1117&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&labelColor=0D1117&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&labelColor=0D1117" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&labelColor=0D1117&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Automação e dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&labelColor=0D1117&logo=selenium&logoColor=white" alt="Selenium" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&labelColor=0D1117&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&labelColor=0D1117" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/openpyxl-1D6F42?style=flat-square&labelColor=0D1117" alt="openpyxl" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=0D1117" alt="Power BI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0D1117&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&labelColor=0D1117&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&labelColor=0D1117&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&labelColor=0D1117&logo=turborepo&logoColor=white" alt="Turborepo" />
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&labelColor=0D1117&logo=pnpm&logoColor=white" alt="pnpm" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Testes e qualidade</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&labelColor=0D1117&logo=jest&logoColor=white" alt="Jest" />
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&labelColor=0D1117&logo=vitest&logoColor=white" alt="Vitest" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&labelColor=0D1117" alt="Playwright" />
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&labelColor=0D1117&logo=eslint&logoColor=white" alt="ESLint" />
     </td>
   </tr>
   <tr>
     <td><b>Design</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0D1117" alt="Figma" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&labelColor=0D1117&logo=figma&logoColor=white" alt="Figma" />
     </td>
   </tr>
 </table>
+
+<sub>Stack levantada a partir do código dos repositórios (manifestos <code>package.json</code>, <code>requirements.txt</code>, <code>schema.prisma</code>, <code>docker-compose</code> e workflows). SQL Server, Power BI, MySQL e Firebase constam das competências declaradas no portfólio, sem uso em repositório público.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:6366F1&height=3&section=header" width="100%" alt="" />
 
@@ -91,23 +132,38 @@ const matheus = {
 
 ### Financeiro SaaS
 
-**Controle financeiro pessoal completo**
+**Controle financeiro pessoal e familiar** — dashboards, categorias automáticas e multi-usuário
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0D1117" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" alt="React" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Vercel" />
-<img src="https://img.shields.io/badge/C%C3%B3digo-privado-6366F1?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Repositório privado" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=0D1117&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=0D1117&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&labelColor=0D1117&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&labelColor=0D1117&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&labelColor=0D1117&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
 <a href="https://financeiro-saa-s.vercel.app/">
-  <img src="https://img.shields.io/badge/Acessar%20aplica%C3%A7%C3%A3o-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Acessar Financeiro SaaS" />
+  <img src="https://img.shields.io/badge/Acessar%20aplica%C3%A7%C3%A3o-38BDF8?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=white" alt="Acessar Financeiro SaaS" />
 </a>
+<img src="https://img.shields.io/badge/reposit%C3%B3rio-privado-6366F1?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Repositório privado" />
 
 </td>
 </tr>
 </table>
 </div>
 
-<sub>Aplicação publicada e em funcionamento; o repositório é privado, por isso não aparece na listagem pública do perfil.</sub>
+<br />
+
+| Projeto | O que é | Stack |
+| :--- | :--- | :--- |
+| **[financeiro_app](https://github.com/matheus-mmd/financeiro_app)** | Monorepo do SaaS financeiro com apps Web, Mobile e API compartilhando pacotes de UI, schemas e config | `Turborepo` `pnpm` `Next.js` `Expo` `NestJS` `Prisma` |
+| **[finance-app-api](https://github.com/matheus-mmd/finance-app-api)** | API REST de finanças com autenticação, documentação e suíte de testes | `Node.js` `Express` `Prisma` `PostgreSQL` `Jest` `Swagger` |
+| **[rpa-challenge](https://github.com/matheus-mmd/rpa-challenge)** | Automação do RPA Challenge, que resolve um formulário cujos campos trocam de posição a cada envio | `Python` `Selenium` `openpyxl` |
+| **[task-manager](https://github.com/matheus-mmd/task-manager)** | Gerenciador de tarefas com rotas, formulários validados e tema utilitário | `React` `Vite` `Tailwind CSS` `React Hook Form` |
+| **[site_vendas1](https://github.com/matheus-mmd/site_vendas1)** | Landing page de vendas construída no App Router | `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` |
+| **[Robo-Email](https://github.com/matheus-mmd/Robo-Email)** | Robô de leitura de caixa de e-mail com interface desktop | `Python` `imap-tools` `PySimpleGUI` |
+
+<sub>Repositórios privados não listados aqui: <code>site_apresentacao</code> (portfólio em Next.js) e
+<code>enxoval-nm</code> (Next.js 15 + React 19).</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:6366F1&height=3&section=header" width="100%" alt="" />
 
@@ -176,13 +232,10 @@ nenhuma estatística está escrita manualmente neste arquivo.
 <div align="center">
 
 <a href="mailto:matheus_meneses2011@hotmail.com">
-  <img src="https://img.shields.io/badge/matheus__meneses2011@hotmail.com-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0D1117" alt="E-mail: matheus_meneses2011@hotmail.com" />
+  <img src="https://img.shields.io/badge/matheus__meneses2011@hotmail.com-38BDF8?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRhMiAyIDAgMCAwLTIgMnYxMmEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJWNmEyIDIgMCAwIDAtMi0yem0wIDQuMi04IDQuOC04LTQuOFY2bDggNC44TDIwIDZ6Ii8+PC9zdmc+" alt="E-mail: matheus_meneses2011@hotmail.com" />
 </a>
 <a href="https://www.linkedin.com/in/matheus-mmd/">
-  <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fmatheus--mmd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn de Matheus Menezes" />
-</a>
-<a href="https://wa.me/5511945153662">
-  <img src="https://img.shields.io/badge/(11)%209%204515--3662-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp: (11) 9 4515-3662" />
+  <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fmatheus--mmd-0A66C2?style=for-the-badge&labelColor=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMi45OCA5Ljc1aDR2MTEuNWgtNHpNOS41IDkuNzVoMy44M3YxLjU3aC4wNWMuNTMtMSAxLjg0LTIuMDYgMy43OC0yLjA2IDQuMDQgMCA0Ljc5IDIuNjYgNC43OSA2LjEydjUuODdoLTR2LTUuMmMwLTEuMjQtLjAyLTIuODQtMS43My0yLjg0LTEuNzMgMC0yIDEuMzUtMiAyLjc1djUuMjloLTR6Ii8+PC9zdmc+" alt="LinkedIn de Matheus Menezes" />
 </a>
 
 </div>
