@@ -153,24 +153,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:6366F1&height=3&section=header" width="100%" alt="" />
 
-## ▸ Atividade e contribuições
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheus-mmd&theme=github_dark" alt="Total de stars, commits, pull requests, issues e repositórios contribuídos" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheus-mmd&theme=github_dark&utcOffset=-3" alt="Horários mais produtivos (UTC-3)" />
-
-</div>
-
-<sub>
-A animação Snake cobre os <b>últimos 365 dias</b>; o card de totais é <b>acumulado</b> da conta.
-Os números são lidos ao vivo da API do GitHub por
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> —
-nenhuma estatística está escrita manualmente neste arquivo.
-</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:6366F1&height=3&section=header" width="100%" alt="" />
-
 ## ▸ Snake — contribuições em movimento
 
 <div align="center">
@@ -183,7 +165,7 @@ nenhuma estatística está escrita manualmente neste arquivo.
 
 </div>
 
-<sub>Gerada automaticamente todos os dias pelo workflow <a href="./.github/workflows/snake.yml"><code>.github/workflows/snake.yml</code></a> a partir do gráfico real de contribuições.</sub>
+<sub>Gerada automaticamente todos os dias pelo workflow <a href="./.github/workflows/snake.yml"><code>.github/workflows/snake.yml</code></a> a partir do gráfico real de contribuições dos últimos 365 dias.</sub>
 
 <div align="center">
 
