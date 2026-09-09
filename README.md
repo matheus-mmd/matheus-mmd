@@ -6,8 +6,9 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/matheus-menezes-221228267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/matheus-mmd/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0D1117)](mailto:matheus_meneses2011@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](https://wa.me/5511945153662)
 [![GitHub](https://img.shields.io/badge/GitHub-matheus--mmd-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/matheus-mmd)
 
 <img src="https://komarev.com/ghpvc/?username=matheus-mmd&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
@@ -24,6 +25,7 @@ const matheus = {
   focus:    ["Interfaces intuitivas", "Experiências digitais envolventes"],
   alsoDoes: ["Soluções automatizadas com Python"],
   core:     ["TypeScript", "React", "Next.js", "Node.js"],
+  building: "Financeiro SaaS — controle financeiro pessoal",
   contact:  "matheus_meneses2011@hotmail.com",
 };
 ```
@@ -77,6 +79,35 @@ const matheus = {
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:6366F1&height=3&section=header" width="100%" alt="" />
+
+## ▸ Projetos em destaque
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
+
+### Financeiro SaaS
+
+**Controle financeiro pessoal completo**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0D1117" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" alt="React" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Vercel" />
+<img src="https://img.shields.io/badge/C%C3%B3digo-privado-6366F1?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Repositório privado" />
+
+<a href="https://financeiro-saa-s.vercel.app/">
+  <img src="https://img.shields.io/badge/Acessar%20aplica%C3%A7%C3%A3o-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Acessar Financeiro SaaS" />
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<sub>Aplicação publicada e em funcionamento; o repositório é privado, por isso não aparece na listagem pública do perfil.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:6366F1&height=3&section=header" width="100%" alt="" />
 
@@ -140,23 +171,6 @@ nenhuma estatística está escrita manualmente neste arquivo.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:38BDF8,100:6366F1&height=3&section=header" width="100%" alt="" />
 
-<!--
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │ SEÇÃO OPCIONAL — PROJETOS EM DESTAQUE                                │
-  │ Não foi preenchida porque o README atual não citava nenhum projeto.  │
-  │ Para ativar: remova estes comentários e preencha as linhas da tabela.│
-  │ Feita só com Markdown, sem depender de nenhum serviço externo.       │
-  └──────────────────────────────────────────────────────────────────────┘
-
-## ▸ Projetos em destaque
-
-| Projeto | O que é | Stack |
-| :--- | :--- | :--- |
-| **[Nome do projeto](https://github.com/matheus-mmd/NOME-DO-REPO)** | Uma linha explicando o problema que ele resolve. | `React` · `TypeScript` |
-| **[Nome do projeto](https://github.com/matheus-mmd/OUTRO-REPO)** | Uma linha explicando o problema que ele resolve. | `Python` · `SQL Server` |
-
--->
-
 ## ▸ Contato
 
 <div align="center">
@@ -164,8 +178,11 @@ nenhuma estatística está escrita manualmente neste arquivo.
 <a href="mailto:matheus_meneses2011@hotmail.com">
   <img src="https://img.shields.io/badge/matheus__meneses2011@hotmail.com-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0D1117" alt="E-mail: matheus_meneses2011@hotmail.com" />
 </a>
-<a href="https://www.linkedin.com/in/matheus-menezes-221228267/">
-  <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fmatheus--menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn de Matheus Menezes" />
+<a href="https://www.linkedin.com/in/matheus-mmd/">
+  <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fmatheus--mmd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn de Matheus Menezes" />
+</a>
+<a href="https://wa.me/5511945153662">
+  <img src="https://img.shields.io/badge/(11)%209%204515--3662-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp: (11) 9 4515-3662" />
 </a>
 
 </div>
