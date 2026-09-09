@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,40:1E3A8A,100:38BDF8&height=200&section=header&text=Matheus%20Menezes&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=Front-End%20Developer&descAlignY=55&descSize=18&animation=fadeIn" alt="Matheus Menezes — Front-End Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,40:1E3A8A,100:38BDF8&height=200&section=header&text=Matheus%20Menezes&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=Full-Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" alt="Matheus Menezes — Full-Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Experi%C3%AAncias+digitais+envolventes;Interfaces+intuitivas+e+responsivas;Automa%C3%A7%C3%B5es+e+solu%C3%A7%C3%B5es+com+Python" alt="Experiências digitais envolventes · Interfaces intuitivas e responsivas · Automações e soluções com Python" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Interfaces+intuitivas+e+responsivas;APIs+e+back-end+com+Node.js+e+NestJS;Automa%C3%A7%C3%B5es+e+solu%C3%A7%C3%B5es+com+Python" alt="Interfaces intuitivas e responsivas · APIs e back-end com Node.js e NestJS · Automações e soluções com Python" />
 
 <br />
 
@@ -20,7 +20,7 @@
 
 ```ts
 const matheus = {
-  role:     "Desenvolvedor Front-End",
+  role:     "Desenvolvedor Full-Stack",
   focus:    ["Interfaces intuitivas", "Experiências digitais envolventes"],
   core:     ["TypeScript", "React", "Next.js", "Tailwind CSS"],
   backend:  ["Node.js", "NestJS", "Express", "Prisma", "PostgreSQL"],
